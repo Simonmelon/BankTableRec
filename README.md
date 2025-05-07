@@ -1,7 +1,7 @@
 # BankTableRec
 Bank statement recognition银行流水识别(基于base on yolo,TATR,paddle)
 
-# 基于 PP-StructureV2 的发票与表格识别系统
+# 基于YOLO TATR PP-StructureV2 的发票与表格识别系统
 
 ## 项目简介
 
