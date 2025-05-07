@@ -1,9 +1,0 @@
-POST https://2557-116-136-52-141.ngrok-free.app/detect
-Content-Type: multipart/form-data; boundary=WebAppBoundary
-
---WebAppBoundary
-Content-Disposition: form-data; name="file"; filename="test.pdf"
-Content-Type: multipart/form-data
-
-< ./test.pdf
---WebAppBoundary--
