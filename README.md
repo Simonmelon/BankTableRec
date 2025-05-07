@@ -61,7 +61,7 @@ Bank statement recognition银行流水识别(基于base on yolo,TATR,paddle)
 
 ![发票识别流程图](img/1.png)
 
-##训练模型下载地址：
+## 模型下载：
 
 ## 技术支持
 
